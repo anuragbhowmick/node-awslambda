@@ -1,0 +1,11 @@
+{
+  "name": "bpush-sender",
+  "version": "1.0.0",
+  "description": "This is a node js api to send push notifications to end client",
+  "main": "index.js",
+  "author": "anurag.bhowmick@vizury.com",
+  "license": "ISC",
+  "dependencies": {
+    "web-push": "2.2.0"
+  }
+}
